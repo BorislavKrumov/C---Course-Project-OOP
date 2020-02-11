@@ -1,0 +1,15 @@
+C:\Users\Borislav\documents\visual studio 2017\Projects\CarInventoryManagement\CarInventoryManagement\bin\Debug\CarInventoryManagement.exe.config
+C:\Users\Borislav\documents\visual studio 2017\Projects\CarInventoryManagement\CarInventoryManagement\bin\Debug\CarInventoryManagement.exe
+C:\Users\Borislav\documents\visual studio 2017\Projects\CarInventoryManagement\CarInventoryManagement\bin\Debug\CarInventoryManagement.pdb
+C:\Users\Borislav\documents\visual studio 2017\Projects\CarInventoryManagement\CarInventoryManagement\obj\Debug\CarInventoryManagement.Form1.resources
+C:\Users\Borislav\documents\visual studio 2017\Projects\CarInventoryManagement\CarInventoryManagement\obj\Debug\CarInventoryManagement.Properties.Resources.resources
+C:\Users\Borislav\documents\visual studio 2017\Projects\CarInventoryManagement\CarInventoryManagement\obj\Debug\AutoStore.csproj.GenerateResource.Cache
+C:\Users\Borislav\documents\visual studio 2017\Projects\CarInventoryManagement\CarInventoryManagement\obj\Debug\CarInventoryManagement.exe
+C:\Users\Borislav\documents\visual studio 2017\Projects\CarInventoryManagement\CarInventoryManagement\obj\Debug\CarInventoryManagement.pdb
+C:\Users\Borislav\documents\visual studio 2017\Projects\CarInventoryManagement\CarInventoryManagement\obj\Debug\CarInventoryManagement.AutoForm.resources
+C:\Users\Borislav\documents\visual studio 2017\Projects\CarInventoryManagement\CarInventoryManagement\obj\Debug\CarInventoryManagement.addCategoryForm.resources
+C:\Users\Borislav\documents\visual studio 2017\Projects\CarInventoryManagement\CarInventoryManagement\obj\Debug\CarInventoryManagement.addAutoPartsForm.resources
+C:\Users\Borislav\documents\visual studio 2017\Projects\CarInventoryManagement\CarInventoryManagement\obj\Debug\AutoStore.csprojResolveAssemblyReference.cache
+C:\Users\Borislav\documents\visual studio 2017\Projects\CarInventoryManagement\CarInventoryManagement\obj\Debug\CarInventoryManagement.Forms.Accessories.accessoriesAddForm.resources
+C:\Users\Borislav\documents\visual studio 2017\Projects\CarInventoryManagement\CarInventoryManagement\obj\Debug\CarInventoryManagement.Forms.Accessories.accessoriesHomeForm.resources
+C:\Users\Borislav\documents\visual studio 2017\Projects\CarInventoryManagement\CarInventoryManagement\obj\Debug\CarInventoryManagement.Forms.Accessories.accessoriesCategoryAddForm.resources

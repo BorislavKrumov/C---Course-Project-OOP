@@ -1,0 +1,2 @@
+﻿Огледало,Огледала,100,333,Самсунг,С6,Честен,C:\Users\Borislav\Pictures\Папка поща\OEL_right.JPG
+Течност Чистачки,Течности,20,20,фдск,23,32,C:\Users\Borislav\Pictures\Папка поща\CarInventoryManagement\CarInventoryManagement\ImagesData\res_84f01f28fd9376017fa82623bd534aa2_full.jpg

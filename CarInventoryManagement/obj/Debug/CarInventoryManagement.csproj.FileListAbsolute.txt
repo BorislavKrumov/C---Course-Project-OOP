@@ -1,0 +1,34 @@
+c:\users\borislav\documents\visual studio 2017\Projects\CarInventoryManagement\CarInventoryManagement\bin\Debug\CarInventoryManagement.exe.config
+c:\users\borislav\documents\visual studio 2017\Projects\CarInventoryManagement\CarInventoryManagement\bin\Debug\CarInventoryManagement.exe
+c:\users\borislav\documents\visual studio 2017\Projects\CarInventoryManagement\CarInventoryManagement\bin\Debug\CarInventoryManagement.pdb
+c:\users\borislav\documents\visual studio 2017\Projects\CarInventoryManagement\CarInventoryManagement\obj\Debug\CarInventoryManagement.csprojResolveAssemblyReference.cache
+c:\users\borislav\documents\visual studio 2017\Projects\CarInventoryManagement\CarInventoryManagement\obj\Debug\CarInventoryManagement.Form1.resources
+c:\users\borislav\documents\visual studio 2017\Projects\CarInventoryManagement\CarInventoryManagement\obj\Debug\CarInventoryManagement.Properties.Resources.resources
+c:\users\borislav\documents\visual studio 2017\Projects\CarInventoryManagement\CarInventoryManagement\obj\Debug\CarInventoryManagement.csproj.GenerateResource.Cache
+c:\users\borislav\documents\visual studio 2017\Projects\CarInventoryManagement\CarInventoryManagement\obj\Debug\CarInventoryManagement.exe
+c:\users\borislav\documents\visual studio 2017\Projects\CarInventoryManagement\CarInventoryManagement\obj\Debug\CarInventoryManagement.pdb
+C:\Users\Borislav\documents\visual studio 2017\Projects\CarInventoryManagement\CarInventoryManagement\obj\Debug\CarInventoryManagement.Forms.Accessories.accessoriesAddForm.resources
+C:\Users\Borislav\documents\visual studio 2017\Projects\CarInventoryManagement\CarInventoryManagement\obj\Debug\CarInventoryManagement.Forms.Accessories.accessoriesCategoryAddForm.resources
+C:\Users\Borislav\documents\visual studio 2017\Projects\CarInventoryManagement\CarInventoryManagement\obj\Debug\CarInventoryManagement.Forms.Accessories.accessoriesHomeForm.resources
+C:\Users\Borislav\documents\visual studio 2017\Projects\CarInventoryManagement\CarInventoryManagement\obj\Debug\CarInventoryManagement.addAutoPartsForm.resources
+C:\Users\Borislav\documents\visual studio 2017\Projects\CarInventoryManagement\CarInventoryManagement\obj\Debug\CarInventoryManagement.addCategoryForm.resources
+C:\Users\Borislav\documents\visual studio 2017\Projects\CarInventoryManagement\CarInventoryManagement\obj\Debug\CarInventoryManagement.AutoForm.resources
+E:\thros sptop\CarInventoryManagement\bin\Debug\CarInventoryManagement.exe.config
+E:\thros sptop\CarInventoryManagement\bin\Debug\CarInventoryManagement.exe
+E:\thros sptop\CarInventoryManagement\bin\Debug\CarInventoryManagement.pdb
+E:\thros sptop\CarInventoryManagement\obj\Debug\CarInventoryManagement.Forms.Accessories.accessoriesAddForm.resources
+E:\thros sptop\CarInventoryManagement\obj\Debug\CarInventoryManagement.Forms.Accessories.accessoriesCategoryAddForm.resources
+E:\thros sptop\CarInventoryManagement\obj\Debug\CarInventoryManagement.Forms.Accessories.accessoriesHomeForm.resources
+E:\thros sptop\CarInventoryManagement\obj\Debug\CarInventoryManagement.addAutoPartsForm.resources
+E:\thros sptop\CarInventoryManagement\obj\Debug\CarInventoryManagement.addCategoryForm.resources
+E:\thros sptop\CarInventoryManagement\obj\Debug\CarInventoryManagement.AutoForm.resources
+E:\thros sptop\CarInventoryManagement\obj\Debug\CarInventoryManagement.Form1.resources
+E:\thros sptop\CarInventoryManagement\obj\Debug\CarInventoryManagement.Properties.Resources.resources
+E:\thros sptop\CarInventoryManagement\obj\Debug\CarInventoryManagement.csproj.GenerateResource.Cache
+E:\thros sptop\CarInventoryManagement\obj\Debug\CarInventoryManagement.exe
+E:\thros sptop\CarInventoryManagement\obj\Debug\CarInventoryManagement.pdb
+E:\thros sptop\CarInventoryManagement\obj\Debug\CarInventoryManagement.csprojResolveAssemblyReference.cache
+E:\thros sptop\CarInventoryManagement\bin\Debug\Newtonsoft.Json.dll
+E:\thros sptop\CarInventoryManagement\bin\Debug\Newtonsoft.Json.xml
+E:\thros sptop\CarInventoryManagement\bin\Debug\InventoryMenagement.dll
+E:\thros sptop\CarInventoryManagement\bin\Debug\InventoryMenagement.pdb

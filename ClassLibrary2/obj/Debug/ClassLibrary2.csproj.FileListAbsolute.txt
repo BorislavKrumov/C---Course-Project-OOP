@@ -1,0 +1,5 @@
+E:\thros sptop\ClassLibrary2\obj\Debug\ClassLibrary2.csprojResolveAssemblyReference.cache
+E:\thros sptop\ClassLibrary2\bin\Debug\InventoryMenagement.dll
+E:\thros sptop\ClassLibrary2\bin\Debug\InventoryMenagement.pdb
+E:\thros sptop\ClassLibrary2\obj\Debug\InventoryMenagement.dll
+E:\thros sptop\ClassLibrary2\obj\Debug\InventoryMenagement.pdb
